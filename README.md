@@ -9,7 +9,7 @@ A simple and responsive weather app built with HTML, CSS, and JavaScript. It fet
 
 ## 🔗 Live Demo
 
-🌐 [Live Hosted App on GitHub Pages](https://sanjay-khandelwal.github.io/weather-app/)
+🌐 [Live Hosted App on GitHub Pages](https://lineargradientpro.netlify.app)
 
 > ⚠️ Note: For the app to work, you must create a local `config.js` file. The API key is not included in this repository.
 

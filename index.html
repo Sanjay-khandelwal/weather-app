@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Weather App</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<div class="container">
+  <div class="input-group">
+    <input type="text" id="cityInput" placeholder="Enter city name" />
+    <button onclick="getData()">Search</button>
+  </div>
+  <!-- Add dark mode toggle button -->
+  <button id="toggleModeBtn" style="margin-bottom:10px;align-self:flex-end;">🌙 Dark Mode</button>
+  <div id="weatherContainer" style="flex: 1 1 0;">
+    <h2>Loading Weather...</h2>
+  </div>
+</div>
+<script src="config.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
+
